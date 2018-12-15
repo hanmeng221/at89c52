@@ -7,7 +7,7 @@ sbit f_4 = P2^3;
 sbit s_1 = P3^0;
 sbit s_2 = P3^1;
 sbit s_3 = P3^2;
-sbit 3_4 = P3^3;
+sbit s_4 = P3^3;
 
 unsigned char times;
 unsigned char count;
